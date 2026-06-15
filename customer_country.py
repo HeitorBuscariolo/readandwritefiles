@@ -18,7 +18,7 @@ for row in csv_file:
 
     customer_count += 1
 
-print(f'Total customer: {customer_count}')
+print(f'Total customers: {customer_count}')
 
 customers.close()
 outfile.close()
